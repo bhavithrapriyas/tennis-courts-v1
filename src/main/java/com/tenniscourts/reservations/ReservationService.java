@@ -1,6 +1,8 @@
-package com.tenniscourts.reservations;
+package main.java.com.tenniscourts.reservations;
 
-import com.tenniscourts.exceptions.EntityNotFoundException;
+import main.java.com.tenniscourts.exceptions.EntityNotFoundException;
+import main.java.com.tenniscourts.reservations.Reservation;
+
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
